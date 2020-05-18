@@ -31,3 +31,6 @@ print(s)
 
 s.add("Bob")
 print(s)
+
+# to declare a tuple with one value need to add a comma anyway
+t = (1,)
